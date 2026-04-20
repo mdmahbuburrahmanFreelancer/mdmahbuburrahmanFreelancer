@@ -2,19 +2,12 @@
 #### SEO Expert | 150+ Projects | Google Ads | Facebook Ads | Organic Growth
 ![SEO Expert | 150+ Projects | Google Ads | Facebook Ads | Organic Growth](https://scontent.fdac187-1.fna.fbcdn.net/v/t39.30808-6/613118801_1884155822200397_4012239101687487545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHX7_n8PoUIIay-geDyr79Oc1NJbIG1LZpzU0lsgbUtmnMKFjGNpHaaWAzZ-cN297z4_qsDoARcUZbBhaZPf-UY&_nc_ohc=9MTzBhpApiAQ7kNvwFZdq30&_nc_oc=AdoGFZktJ3tOLM8G19FgN2LLpjgOKYZWw8q3GMU5SL-P47jKQs-1EnPcRza8B5cOniw&_nc_zt=23&_nc_ht=scontent.fdac187-1.fna&_nc_gid=kaQBHIbYyjmusCBXsBWCdg&_nc_ss=7a3a8&oh=00_Af04P_5WQyniqs35-MxhpukaLFxCNWICAbrUYmOxnkI96Q&oe=69EB65D5)
 
-ঠিক আছে—একই **style + structure** রেখে এটাকে আরও **short, clean, powerful version** বানিয়ে দিলাম 👇
-
----
-
-**About Me**
-
 Hi, I’m **MD. Mahbubur Rahman** — an SEO Specialist & Digital Marketing Expert focused on driving real growth.
 
 With 2+ years of experience and 150+ completed projects, I help businesses improve search rankings, increase organic traffic, and build a strong online presence using data-driven, ethical strategies.
 
 I focus on long-term results — not shortcuts.
 
----
 
 **What I Do Best**
 
@@ -36,15 +29,12 @@ Google Ads • Facebook & Instagram Ads
 📈 **Analytics & Tracking**
 Google Analytics • Search Console
 
----
-
 **My Approach**
 
 ✔ White-hat SEO
 ✔ ROI-focused strategies
 ✔ Clear communication
 
----
 
 **Let’s Connect**
 
