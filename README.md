@@ -1,27 +1,42 @@
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!-- MD. MAHBUBUR RAHMAN -->
+<!-- MD. MAHBUBUR RAHMAN - GITHUB PROFILE README -->
 
-<!-- GitHub Profile README -->
+<!-- SEO Engineer | Performance Marketer | AI Automation -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
+
+<!-- HERO -->
 
 <p align="center">
-  <img src="https://scontent.fdac187-1.fna.fbcdn.net/v/t39.30808-6/613118801_1884155822200397_4012239101687487545_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHX7_n8PoUIIay-geDyr79Oc1NJbIG1LZpzU0lsgbUtmnMKFjGNpHaaWAzZ-cN297z4_qsDoARcUZbBhaZPf-UY&_nc_ohc=9MTzBhpApiAQ7kNvwFZdq30&_nc_oc=AdoGFZktJ3tOLM8G19FgN2LLpjgOKYZWw8q3GMU5SL-P47jKQs-1EnPcRza8B5cOniw&_nc_zt=23&_nc_ht=scontent.fdac187-1.fna&_nc_gid=kaQBHIbYyjmusCBXsBWCdg&_nc_ss=7a3a8&oh=00_Af04P_5WQyniqs35-MxhpukaLFxCNWICAbrUYmOxnkI96Q&oe=69EB65D5" alt="MD. Mahbubur Rahman" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:001843,50:0057B8,100:00AEEF&height=220&section=header&text=MD.%20MAHBUBUR%20RAHMAN&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SEO%20Engineer%20%7C%20Performance%20Marketer%20%7C%20AI%20Automation&descAlignY=58&descSize=18"
+    alt="MD. Mahbubur Rahman"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD. Mahbubur Rahman</h1>
+<h1 align="center">👋 Hi, I'm MD. Mahbubur Rahman</h1>
 
 <h3 align="center">
-SEO Engineer | Performance Marketer | AI Automation
+  SEO Engineer | Performance Marketer | AI Automation
 </h3>
 
 <p align="center">
-<b>6+ Years of Experience • 150+ Projects • 8 Countries</b>
+  <strong>6+ Years of Experience • 150+ Projects • 8 Countries</strong>
 </p>
 
 <p align="center">
-Helping Businesses Grow Through <b>Search, Ads & Automation</b>.
+  Helping Businesses Grow Through <strong>Search, Ads & Automation</strong>.
+</p>
+
+<p align="center">
+  <a href="https://mdmahbuburrahman.com">
+    <img src="https://img.shields.io/badge/Website-mdmahbuburrahman.com-001843?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdmahbuburrahman2002/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -32,15 +47,15 @@ I’m a Bangladesh-based **SEO Engineer, Performance Marketer, and AI Automation
 
 I started freelancing in **2020** and have been working full-time since **2023**, completing **150+ projects across 8 countries**.
 
-My strongest area of experience is **SEO**, while my current work also includes **Performance Marketing, AI Search Optimization, and Business Automation**.
+My strongest area of experience is **SEO**, while my current work also includes **Performance Marketing, Local SEO, AEO, GEO, AI SEO, and Business Automation**.
 
 I focus on sustainable, ethical and data-driven strategies rather than shortcuts.
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-### 🔍 SEO & Organic Growth
+## 🔍 SEO & Organic Growth
 
 * On-Page SEO
 * Technical SEO
@@ -61,9 +76,11 @@ I focus on sustainable, ethical and data-driven strategies rather than shortcuts
 * Google Search Console
 * Google Analytics
 
-### 📍 Local SEO
+---
 
-Helping local businesses improve their visibility in **Google Search and Google Maps**.
+## 📍 Local SEO
+
+Helping local businesses improve visibility across **Google Search and Google Maps**.
 
 * Google Business Profile Optimization
 * Google Maps Ranking
@@ -75,7 +92,9 @@ Helping local businesses improve their visibility in **Google Search and Google 
 * Location-Based SEO
 * Local Search Visibility
 
-### 🤖 AEO • GEO • AI SEO
+---
+
+## 🤖 AEO • GEO • AI SEO
 
 Optimizing businesses for the evolving search ecosystem.
 
@@ -88,9 +107,11 @@ Optimizing businesses for the evolving search ecosystem.
 * Google Gemini Search Visibility
 * AI-Friendly Content Optimization
 
-### 📊 Performance Marketing
+---
 
-Data-driven paid advertising focused on measurable business outcomes.
+## 📊 Performance Marketing
+
+Data-driven advertising focused on measurable business outcomes.
 
 * Google Ads
 * Google Search Ads
@@ -103,7 +124,9 @@ Data-driven paid advertising focused on measurable business outcomes.
 * Performance Analysis
 * Marketing Analytics
 
-### ⚙️ AI Automation
+---
+
+## ⚙️ AI Automation
 
 Building practical business automation systems using AI, APIs and no-code/low-code technologies.
 
@@ -123,21 +146,21 @@ Building practical business automation systems using AI, APIs and no-code/low-co
 
 ---
 
-## 📈 Experience & Results
+# 📈 Experience & Results
 
-* **6+ years** of practical experience
-* **150+ completed projects**
-* Projects across **8 countries**
-* SEO projects built and optimized from the ground up
-* Google Search ranking improvements
-* Google Maps / Local SEO growth
-* Technical SEO and indexing optimization
-* Google Ads lead-generation campaigns
-* Meta advertising campaigns
-* AI-powered marketing workflows
-* n8n business automation systems
+| Experience        | Details                     |
+| ----------------- | --------------------------- |
+| 🗓️ Experience    | **6+ Years**                |
+| 📂 Projects       | **150+ Completed Projects** |
+| 🌍 Countries      | **8 Countries**             |
+| 🔍 Core Expertise | **SEO & Organic Growth**    |
+| 📍 Local Search   | **Google Maps & Local SEO** |
+| 📊 Paid Marketing | **Google Ads & Meta Ads**   |
+| 🤖 Automation     | **AI Automation & n8n**     |
 
-### 🏆 SEO Growth Process
+---
+
+# 🏆 SEO Growth Process
 
 ```text
 Technical SEO
@@ -163,7 +186,7 @@ Continuous Analysis & Optimization
 
 ---
 
-## 🧠 SEO Focus
+# 🧠 My SEO Focus
 
 ```text
 SEO
@@ -181,52 +204,52 @@ I work across both traditional search engines and emerging AI-powered search exp
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
-### SEO & Analytics
+### 🔎 SEO & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Ahrefs-FF4F00?style=for-the-badge&logo=ahrefs&logoColor=white" />
-<img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
-<img src="https://img.shields.io/badge/Screaming%20Frog-2D2D2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile"/>
+  <img src="https://img.shields.io/badge/Ahrefs-FF4F00?style=for-the-badge&logo=ahrefs&logoColor=white" alt="Ahrefs"/>
+  <img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" alt="Semrush"/>
+  <img src="https://img.shields.io/badge/Screaming%20Frog-222222?style=for-the-badge&logoColor=white" alt="Screaming Frog"/>
 </p>
 
-### Advertising
+### 📊 Advertising
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </p>
 
-### AI & Automation
+### 🤖 AI & Automation
 
 <p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Webhooks-222222?style=for-the-badge&logoColor=white" alt="Webhooks"/>
 </p>
 
-### Web & Development
+### 🌐 Web & Development
 
 <p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-## 🌍 International Experience
+# 🌍 International Experience
 
 I have completed projects for businesses and clients across:
 
@@ -241,31 +264,31 @@ I have completed projects for businesses and clients across:
 
 ---
 
-## 📂 Featured Work
+# 📂 Featured Work
 
 My work includes:
 
-* Local SEO & Google Maps projects
-* Technical SEO & indexing optimization
-* Google Search Console growth projects
-* SEO campaigns for service businesses
-* Google Ads lead-generation campaigns
-* Meta advertising campaigns
-* WordPress SEO implementations
-* AI-powered marketing workflows
-* n8n business automation systems
+* 🔍 Local SEO & Google Maps projects
+* 📈 Technical SEO & indexing optimization
+* 📊 Google Search Console growth projects
+* 🏢 SEO campaigns for service businesses
+* 🎯 Google Ads lead-generation campaigns
+* 📣 Meta advertising campaigns
+* 🌐 WordPress SEO implementations
+* 🤖 AI-powered marketing workflows
+* ⚙️ n8n business automation systems
 
-### 🌐 Portfolio & Case Studies
+### 🌐 Portfolio
 
 <p align="center">
-<a href="https://mdmahbuburrahman.com/">
-<img src="https://img.shields.io/badge/Visit%20My%20Website-mdmahbuburrahman.com-001843?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <a href="https://mdmahbuburrahman.com">
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-001843?style=for-the-badge" alt="Visit Website"/>
+  </a>
 </p>
 
 ---
 
-## 💼 Services
+# 💼 Services
 
 | Service                           | Focus                                    |
 | --------------------------------- | ---------------------------------------- |
@@ -278,7 +301,7 @@ My work includes:
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
 * SEO & Organic Growth
 * Local SEO & Google Maps
@@ -290,7 +313,7 @@ My work includes:
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * AI Search & Generative Search
 * AEO & GEO
@@ -304,7 +327,7 @@ My work includes:
 
 ---
 
-## 🤝 Looking to Collaborate On
+# 🤝 Looking to Collaborate On
 
 * SEO Projects
 * Local SEO Projects
@@ -317,129 +340,123 @@ My work includes:
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
 **SEO • Local SEO • Technical SEO • AEO • GEO • AI SEO • Google Ads • Meta Ads • Performance Marketing • AI Automation • n8n**
 
 ---
 
-## 📫 How to Reach Me
+# 📫 Contact & Social
 
-### 🌐 Website
+<p align="center">
 
-https://mdmahbuburrahman.com/
-
-### 💼 LinkedIn
-
-https://www.linkedin.com/in/mdmahbuburrahman2002/
-
-### 📸 Instagram
-
-https://www.instagram.com/md.mahbuburrahman2002/
-
-### ▶️ YouTube
-
-https://www.youtube.com/@mdmahbubur_rahman
-
-### 📘 Facebook
-
-https://www.facebook.com/mdmahbuburrahman2002
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/mdmahbuburrahmanFreelancer">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+<a href="https://mdmahbuburrahman.com">
+<img src="https://img.shields.io/badge/🌐%20Website-Visit%20Website-001843?style=for-the-badge" alt="Website"/>
 </a>
-
-  
 
 <a href="https://www.linkedin.com/in/mdmahbuburrahman2002/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-  
 
 <a href="https://www.facebook.com/mdmahbuburrahman2002">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-  
-
-<a href="https://mdmahbuburrahman.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40">
+<a href="https://www.instagram.com/md.mahbuburrahman2002/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<a href="https://www.youtube.com/@mdmahbubur_rahman">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://github.com/mdmahbuburrahmanFreelancer">
+<img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+<p align="center">
+  <strong>🌐 mdmahbuburrahman.com</strong>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmahbuburrahmanFreelancer&show_icons=true" alt="MD. Mahbubur Rahman GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdmahbuburrahmanFreelancer&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
+    alt="MD. Mahbubur Rahman GitHub Stats"
+  />
 </p>
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahbuburrahmanFreelancer" alt="MD. Mahbubur Rahman Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahbuburrahmanFreelancer&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=8B949E"
+    alt="MD. Mahbubur Rahman Top Languages"
+  />
 </p>
 
 ---
 
-## 🚀 My Professional Focus
+# 🎯 Professional Focus
 
 ```text
-SEO Engineer
-     │
-     ├── SEO & Organic Growth
-     ├── Technical SEO
-     ├── Local SEO
-     ├── Google Maps SEO
-     ├── AEO
-     ├── GEO
-     └── AI SEO
+SEO ENGINEER
+│
+├── SEO & Organic Growth
+├── Technical SEO
+├── Local SEO
+├── Google Maps SEO
+├── AEO
+├── GEO
+└── AI SEO
 
-Performance Marketer
-     │
-     ├── Google Ads
-     ├── Meta Ads
-     ├── Lead Generation
-     └── Conversion Tracking
+PERFORMANCE MARKETER
+│
+├── Google Ads
+├── Meta Ads
+├── Lead Generation
+└── Conversion Tracking
 
-AI Automation
-     │
-     ├── n8n
-     ├── AI Workflows
-     ├── API Integrations
-     ├── Business Automation
-     └── Marketing Automation
+AI AUTOMATION
+│
+├── n8n
+├── AI Workflows
+├── API Integrations
+├── Business Automation
+└── Marketing Automation
 ```
 
 ---
 
-## 🎯 Professional Mission
+# 🚀 My Mission
 
-**Helping Businesses Grow Through Search, Ads & Automation.**
+> **Helping Businesses Grow Through Search, Ads & Automation.**
 
 I combine **SEO, Performance Marketing and AI Automation** to help businesses improve visibility, generate leads, optimize marketing performance, and automate repetitive processes.
 
 ---
 
 <p align="center">
-<b>SEO Engineer • Performance Marketer • AI Automation</b>
+  <strong>SEO Engineer • Performance Marketer • AI Automation</strong>
 </p>
 
 <p align="center">
-<b>6+ Years • 150+ Projects • 8 Countries</b>
+  <strong>6+ Years • 150+ Projects • 8 Countries</strong>
 </p>
 
 <p align="center">
-<a href="https://mdmahbuburrahman.com/">
-<b>🌐 mdmahbuburrahman.com</b>
-</a>
+  <a href="https://mdmahbuburrahman.com">
+    <img src="https://img.shields.io/badge/🌐%20mdmahbuburrahman.com-Visit%20Website-001843?style=for-the-badge" alt="MD. Mahbubur Rahman Website"/>
+  </a>
 </p>
+
+<!-- ====================================================== -->
+
+<!-- END OF PROFILE README -->
+
+<!-- ====================================================== -->
